@@ -286,3 +286,5 @@ This guide is designed to prepare you for technical interviews in 1 to 2 hours. 
 | 228 | Where are the assets of the portfolio app? | Folder hierarchies. | Inside `src/assets/`. | Hardcoded root files. |
 | 229 | How does Malik position himself in the resume? | Career profile. | As an AI Engineer specializing in workflows and agents. | As a web designer. |
 | 230 | How do recruiters contact Malik Halimeh? | Portfolio actions. | Using the contact form, which triggers mailto fallbacks. | Calling phone numbers. |
+ 
+ 
